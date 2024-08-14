@@ -1,3 +1,20 @@
+Telemedicine Platform
+Overview
+The Telemedicine Platform is a web application designed to facilitate virtual healthcare services. It allows patients to consult with healthcare providers remotely, schedule appointments, and manage medical records securely. The platform is built with a modern tech stack that ensures scalability, security, and a smooth user experience.
+
+Features
+Patient Registration and Authentication: Secure login and registration for patients and doctors.
+Appointment Scheduling: Easy scheduling of virtual consultations with healthcare providers.
+Medical Records Management: Patients and doctors can securely upload and access medical records.
+Prescription Management: Doctors can prescribe medications, and patients can view prescriptions online.
+Notifications: Email and SMS notifications for appointment reminders and important updates.
+
+Tech Stack
+Backend: Node.js, Express.js
+Frontend: React.js
+Database: Mysql
+Authentication: JWT (JSON Web Tokens)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
